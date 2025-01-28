@@ -7,6 +7,6 @@ Author - ram chandra
     <title>GitHub Page</title>
   </head>
   <body>
-    <h1> this is a new new website </h1>
+    <h1> This is a New Website on GitHub </h1>
   </body>
 </html>
